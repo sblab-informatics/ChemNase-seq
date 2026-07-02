@@ -1,4 +1,4 @@
-# CnT data processing for the G4 ligand-PROTAC projects of paper "Targeted Degradation of G-Quadruplex Binding Cellular Proteins Using G4-Ligand-Based PROTACs"
+# CnR data processing for the ChemNase-seq data of paper "ChemNase-seq: detecting small-molecule interactions in heterochromatin"
 sn=$1 # sample name
 $out_dir="raw_data"
 R1="unspecified/*.UnspecifiedIndex.*.s_1.r_1.fq.gz"
