@@ -1,6 +1,5 @@
 # ChemNase-seq
 Data processing codes for paper "ChemNase-seq: detecting small-molecule interactions in heterochromatin"
-"
 
 ## Requirements
 - demuxFQ == 3.1.0
