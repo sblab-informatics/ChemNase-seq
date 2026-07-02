@@ -15,4 +15,4 @@ Data processing codes for paper "ChemNase-seq: detecting small-molecule interact
 - deepTools == 3.5.5
 
 ## Descriptions
-data_processing.sh is for data processing for the sequencing data
+data_preprocessing.sh is for data processing for the sequencing data
